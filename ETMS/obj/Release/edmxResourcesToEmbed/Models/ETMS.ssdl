@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Database1ModelStoreContainer">
+    <EntitySet Name="Client" EntityType="Database1Model.Store.Client" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Employee" EntityType="Database1Model.Store.Employee" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Project" EntityType="Database1Model.Store.Project" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SMS" EntityType="Database1Model.Store.SMS" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Supplier" EntityType="Database1Model.Store.Supplier" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Track" EntityType="Database1Model.Store.Track" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="CId" />
+    </Key>
+    <Property Name="CId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CName" Type="nvarchar" MaxLength="50" />
+    <Property Name="CProject" Type="nvarchar" MaxLength="50" />
+    <Property Name="CCompany" Type="nvarchar" MaxLength="50" />
+    <Property Name="CCNIC" Type="nvarchar" MaxLength="50" />
+    <Property Name="CAddress" Type="nvarchar" MaxLength="50" />
+    <Property Name="CPhoneNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="CEmail" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" />
+    <Property Name="CNIC" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Department" Type="nvarchar" MaxLength="50" />
+    <Property Name="Skills" Type="nvarchar" MaxLength="50" />
+    <Property Name="DeviceID" Type="nvarchar" MaxLength="250" />
+    <Property Name="EmpID" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="PId" />
+    </Key>
+    <Property Name="PId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PName" Type="nvarchar" MaxLength="50" />
+    <Property Name="PStartDate" Type="datetime" />
+    <Property Name="PEndDate" Type="datetime" />
+    <Property Name="PTeamLead" Type="nvarchar" MaxLength="50" />
+    <Property Name="PCategory" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="SMS">
+    <Key>
+      <PropertyRef Name="MId" />
+    </Key>
+    <Property Name="MId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="MContactNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="MDateTime" Type="nvarchar" MaxLength="50" />
+    <Property Name="MType" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Supplier">
+    <Key>
+      <PropertyRef Name="SId" />
+    </Key>
+    <Property Name="SId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SName" Type="nvarchar" MaxLength="50" />
+    <Property Name="SPhoneNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="SCompany" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAddress" Type="nvarchar" MaxLength="50" />
+    <Property Name="SType" Type="nvarchar" MaxLength="50" />
+    <Property Name="SEmail" Type="nvarchar" MaxLength="50" />
+    <Property Name="SDetails" Type="nvarchar" MaxLength="300" />
+  </EntityType>
+  <EntityType Name="Track">
+    <Key>
+      <PropertyRef Name="TId" />
+    </Key>
+    <Property Name="TId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TContactNo" Type="varchar" MaxLength="50" />
+    <Property Name="TCallType" Type="nvarchar" MaxLength="50" />
+    <Property Name="TCallDuration" Type="nvarchar" MaxLength="50" />
+    <Property Name="TDateTime" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DatabaseEntities1" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Clients" EntityType="Database1Model.Client" />
+    <EntitySet Name="Employees" EntityType="Database1Model.Employee" />
+    <EntitySet Name="Projects" EntityType="Database1Model.Project" />
+    <EntitySet Name="SMS" EntityType="Database1Model.SM" />
+    <EntitySet Name="Suppliers" EntityType="Database1Model.Supplier" />
+    <EntitySet Name="Tracks" EntityType="Database1Model.Track" />
+  </EntityContainer>
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="CId" />
+    </Key>
+    <Property Name="CId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="CName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CProject" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CCompany" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CCNIC" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CAddress" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CPhoneNo" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CEmail" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CNIC" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Address" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Department" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Skills" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="DeviceID" Type="String" MaxLength="250" Unicode="true" FixedLength="false" />
+    <Property Name="EmpID" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="PId" />
+    </Key>
+    <Property Name="PId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="PName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="PStartDate" Type="DateTime" Precision="3" />
+    <Property Name="PEndDate" Type="DateTime" Precision="3" />
+    <Property Name="PTeamLead" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="PCategory" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="SM">
+    <Key>
+      <PropertyRef Name="MId" />
+    </Key>
+    <Property Name="MId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="MContactNo" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="MDateTime" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="MType" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Supplier">
+    <Key>
+      <PropertyRef Name="SId" />
+    </Key>
+    <Property Name="SId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="SName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="SPhoneNo" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="SCompany" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="SAddress" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="SType" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="SEmail" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="SDetails" Type="String" MaxLength="300" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Track">
+    <Key>
+      <PropertyRef Name="TId" />
+    </Key>
+    <Property Name="TId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="TContactNo" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="TCallType" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="TCallDuration" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="TDateTime" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+</Schema>

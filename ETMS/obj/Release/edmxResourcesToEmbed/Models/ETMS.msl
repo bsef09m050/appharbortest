@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1ModelStoreContainer" CdmEntityContainer="DatabaseEntities1">
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="Database1Model.Client">
+        <MappingFragment StoreEntitySet="Client">
+          <ScalarProperty Name="CId" ColumnName="CId" />
+          <ScalarProperty Name="CName" ColumnName="CName" />
+          <ScalarProperty Name="CProject" ColumnName="CProject" />
+          <ScalarProperty Name="CCompany" ColumnName="CCompany" />
+          <ScalarProperty Name="CCNIC" ColumnName="CCNIC" />
+          <ScalarProperty Name="CAddress" ColumnName="CAddress" />
+          <ScalarProperty Name="CPhoneNo" ColumnName="CPhoneNo" />
+          <ScalarProperty Name="CEmail" ColumnName="CEmail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="Database1Model.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="CNIC" ColumnName="CNIC" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Department" ColumnName="Department" />
+          <ScalarProperty Name="Skills" ColumnName="Skills" />
+          <ScalarProperty Name="DeviceID" ColumnName="DeviceID" />
+          <ScalarProperty Name="EmpID" ColumnName="EmpID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Projects">
+      <EntityTypeMapping TypeName="Database1Model.Project">
+        <MappingFragment StoreEntitySet="Project">
+          <ScalarProperty Name="PId" ColumnName="PId" />
+          <ScalarProperty Name="PName" ColumnName="PName" />
+          <ScalarProperty Name="PStartDate" ColumnName="PStartDate" />
+          <ScalarProperty Name="PEndDate" ColumnName="PEndDate" />
+          <ScalarProperty Name="PTeamLead" ColumnName="PTeamLead" />
+          <ScalarProperty Name="PCategory" ColumnName="PCategory" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SMS">
+      <EntityTypeMapping TypeName="Database1Model.SM">
+        <MappingFragment StoreEntitySet="SMS">
+          <ScalarProperty Name="MId" ColumnName="MId" />
+          <ScalarProperty Name="MContactNo" ColumnName="MContactNo" />
+          <ScalarProperty Name="MDateTime" ColumnName="MDateTime" />
+          <ScalarProperty Name="MType" ColumnName="MType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Suppliers">
+      <EntityTypeMapping TypeName="Database1Model.Supplier">
+        <MappingFragment StoreEntitySet="Supplier">
+          <ScalarProperty Name="SId" ColumnName="SId" />
+          <ScalarProperty Name="SName" ColumnName="SName" />
+          <ScalarProperty Name="SPhoneNo" ColumnName="SPhoneNo" />
+          <ScalarProperty Name="SCompany" ColumnName="SCompany" />
+          <ScalarProperty Name="SAddress" ColumnName="SAddress" />
+          <ScalarProperty Name="SType" ColumnName="SType" />
+          <ScalarProperty Name="SEmail" ColumnName="SEmail" />
+          <ScalarProperty Name="SDetails" ColumnName="SDetails" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tracks">
+      <EntityTypeMapping TypeName="Database1Model.Track">
+        <MappingFragment StoreEntitySet="Track">
+          <ScalarProperty Name="TId" ColumnName="TId" />
+          <ScalarProperty Name="TContactNo" ColumnName="TContactNo" />
+          <ScalarProperty Name="TCallType" ColumnName="TCallType" />
+          <ScalarProperty Name="TCallDuration" ColumnName="TCallDuration" />
+          <ScalarProperty Name="TDateTime" ColumnName="TDateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

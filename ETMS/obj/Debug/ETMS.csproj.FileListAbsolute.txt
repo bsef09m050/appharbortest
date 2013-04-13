@@ -1,0 +1,172 @@
+D:\FYP\ETMS\ETMS\bin\ETMS.dll
+D:\FYP\ETMS\ETMS\bin\ETMS.pdb
+D:\FYP\ETMS\ETMS\bin\Antlr3.Runtime.dll
+D:\FYP\ETMS\ETMS\bin\EntityFramework.dll
+D:\FYP\ETMS\ETMS\bin\Microsoft.Web.Infrastructure.dll
+D:\FYP\ETMS\ETMS\bin\Newtonsoft.Json.dll
+D:\FYP\ETMS\ETMS\bin\System.Net.Http.Formatting.dll
+D:\FYP\ETMS\ETMS\bin\System.Web.Helpers.dll
+D:\FYP\ETMS\ETMS\bin\System.Web.Http.dll
+D:\FYP\ETMS\ETMS\bin\System.Web.Http.WebHost.dll
+D:\FYP\ETMS\ETMS\bin\System.Web.Mvc.dll
+D:\FYP\ETMS\ETMS\bin\System.Web.Optimization.dll
+D:\FYP\ETMS\ETMS\bin\System.Web.Providers.dll
+D:\FYP\ETMS\ETMS\bin\System.Web.Razor.dll
+D:\FYP\ETMS\ETMS\bin\System.Web.WebPages.Deployment.dll
+D:\FYP\ETMS\ETMS\bin\System.Web.WebPages.dll
+D:\FYP\ETMS\ETMS\bin\System.Web.WebPages.Razor.dll
+D:\FYP\ETMS\ETMS\bin\WebGrease.dll
+D:\FYP\ETMS\ETMS\bin\EntityFramework.xml
+D:\FYP\ETMS\ETMS\bin\Newtonsoft.Json.xml
+D:\FYP\ETMS\ETMS\bin\System.Net.Http.Formatting.xml
+D:\FYP\ETMS\ETMS\bin\System.Web.Helpers.xml
+D:\FYP\ETMS\ETMS\bin\System.Web.Http.xml
+D:\FYP\ETMS\ETMS\bin\System.Web.Http.WebHost.xml
+D:\FYP\ETMS\ETMS\bin\System.Web.Mvc.xml
+D:\FYP\ETMS\ETMS\bin\System.Web.Razor.xml
+D:\FYP\ETMS\ETMS\bin\System.Web.WebPages.xml
+D:\FYP\ETMS\ETMS\bin\System.Web.WebPages.Deployment.xml
+D:\FYP\ETMS\ETMS\bin\System.Web.WebPages.Razor.xml
+D:\FYP\ETMS\ETMS\obj\Debug\ETMS.csprojResolveAssemblyReference.cache
+D:\FYP\ETMS\ETMS\obj\Debug\ETMS.dll
+D:\FYP\ETMS\ETMS\obj\Debug\ETMS.pdb
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\ETMS.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\ETMS.pdb
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\Antlr3.Runtime.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\EntityFramework.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\Newtonsoft.Json.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Net.Http.Formatting.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.Helpers.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.Http.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.Http.WebHost.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.Mvc.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.Optimization.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.Providers.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.Razor.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.WebPages.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\WebGrease.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\EntityFramework.xml
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\Newtonsoft.Json.xml
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Net.Http.Formatting.xml
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.Helpers.xml
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.Http.xml
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.Http.WebHost.xml
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.Mvc.xml
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.Razor.xml
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.WebPages.xml
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\waiza\Desktop\ETMS\ETMS\obj\Debug\ETMS.csprojResolveAssemblyReference.cache
+C:\Users\waiza\Desktop\ETMS\ETMS\obj\Debug\ETMS.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\obj\Debug\ETMS.pdb
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\Ninject.dll
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\Ninject.pdb
+C:\Users\waiza\Desktop\ETMS\ETMS\bin\Ninject.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\ETMS.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\ETMS.pdb
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\Antlr3.Runtime.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\EntityFramework.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\Microsoft.Web.Infrastructure.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\Newtonsoft.Json.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\Ninject.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Net.Http.Formatting.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.Helpers.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.Http.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.Http.WebHost.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.Mvc.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.Optimization.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.Providers.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.Razor.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.WebPages.Deployment.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.WebPages.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.WebPages.Razor.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\WebGrease.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\Ninject.pdb
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\Ninject.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\EntityFramework.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\Newtonsoft.Json.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Net.Http.Formatting.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.Helpers.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.Http.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.Http.WebHost.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.Mvc.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.Razor.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.WebPages.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.WebPages.Deployment.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\bin\System.Web.WebPages.Razor.xml
+E:\FYP\Our Final Year Project\ETMS\ETMS\obj\Debug\ETMS.csprojResolveAssemblyReference.cache
+E:\FYP\Our Final Year Project\ETMS\ETMS\obj\Debug\ETMS.dll
+E:\FYP\Our Final Year Project\ETMS\ETMS\obj\Debug\ETMS.pdb
+E:\FYP\ETMS\ETMS\bin\ETMS.dll
+E:\FYP\ETMS\ETMS\bin\ETMS.pdb
+E:\FYP\ETMS\ETMS\bin\Antlr3.Runtime.dll
+E:\FYP\ETMS\ETMS\bin\EntityFramework.dll
+E:\FYP\ETMS\ETMS\bin\Microsoft.Web.Infrastructure.dll
+E:\FYP\ETMS\ETMS\bin\Newtonsoft.Json.dll
+E:\FYP\ETMS\ETMS\bin\Ninject.dll
+E:\FYP\ETMS\ETMS\bin\System.Net.Http.Formatting.dll
+E:\FYP\ETMS\ETMS\bin\System.Web.Helpers.dll
+E:\FYP\ETMS\ETMS\bin\System.Web.Http.dll
+E:\FYP\ETMS\ETMS\bin\System.Web.Http.WebHost.dll
+E:\FYP\ETMS\ETMS\bin\System.Web.Mvc.dll
+E:\FYP\ETMS\ETMS\bin\System.Web.Optimization.dll
+E:\FYP\ETMS\ETMS\bin\System.Web.Providers.dll
+E:\FYP\ETMS\ETMS\bin\System.Web.Razor.dll
+E:\FYP\ETMS\ETMS\bin\System.Web.WebPages.Deployment.dll
+E:\FYP\ETMS\ETMS\bin\System.Web.WebPages.dll
+E:\FYP\ETMS\ETMS\bin\System.Web.WebPages.Razor.dll
+E:\FYP\ETMS\ETMS\bin\WebGrease.dll
+E:\FYP\ETMS\ETMS\bin\Ninject.pdb
+E:\FYP\ETMS\ETMS\bin\Ninject.xml
+E:\FYP\ETMS\ETMS\bin\EntityFramework.xml
+E:\FYP\ETMS\ETMS\bin\Newtonsoft.Json.xml
+E:\FYP\ETMS\ETMS\bin\System.Net.Http.Formatting.xml
+E:\FYP\ETMS\ETMS\bin\System.Web.Helpers.xml
+E:\FYP\ETMS\ETMS\bin\System.Web.Http.xml
+E:\FYP\ETMS\ETMS\bin\System.Web.Http.WebHost.xml
+E:\FYP\ETMS\ETMS\bin\System.Web.Mvc.xml
+E:\FYP\ETMS\ETMS\bin\System.Web.Razor.xml
+E:\FYP\ETMS\ETMS\bin\System.Web.WebPages.xml
+E:\FYP\ETMS\ETMS\bin\System.Web.WebPages.Deployment.xml
+E:\FYP\ETMS\ETMS\bin\System.Web.WebPages.Razor.xml
+E:\FYP\ETMS\ETMS\obj\Debug\ETMS.dll
+E:\FYP\ETMS\ETMS\obj\Debug\ETMS.pdb
+E:\FYP\ETMS\ETMS\obj\Debug\ETMS.csprojResolveAssemblyReference.cache
+F:\ETMS\ETMS\bin\ETMS.dll
+F:\ETMS\ETMS\bin\ETMS.pdb
+F:\ETMS\ETMS\bin\Antlr3.Runtime.dll
+F:\ETMS\ETMS\bin\EntityFramework.dll
+F:\ETMS\ETMS\bin\Microsoft.Web.Infrastructure.dll
+F:\ETMS\ETMS\bin\Newtonsoft.Json.dll
+F:\ETMS\ETMS\bin\Ninject.dll
+F:\ETMS\ETMS\bin\System.Net.Http.Formatting.dll
+F:\ETMS\ETMS\bin\System.Web.Helpers.dll
+F:\ETMS\ETMS\bin\System.Web.Http.dll
+F:\ETMS\ETMS\bin\System.Web.Http.WebHost.dll
+F:\ETMS\ETMS\bin\System.Web.Mvc.dll
+F:\ETMS\ETMS\bin\System.Web.Optimization.dll
+F:\ETMS\ETMS\bin\System.Web.Providers.dll
+F:\ETMS\ETMS\bin\System.Web.Razor.dll
+F:\ETMS\ETMS\bin\System.Web.WebPages.Deployment.dll
+F:\ETMS\ETMS\bin\System.Web.WebPages.dll
+F:\ETMS\ETMS\bin\System.Web.WebPages.Razor.dll
+F:\ETMS\ETMS\bin\WebGrease.dll
+F:\ETMS\ETMS\bin\Ninject.pdb
+F:\ETMS\ETMS\bin\Ninject.xml
+F:\ETMS\ETMS\bin\EntityFramework.xml
+F:\ETMS\ETMS\bin\Newtonsoft.Json.xml
+F:\ETMS\ETMS\bin\System.Net.Http.Formatting.xml
+F:\ETMS\ETMS\bin\System.Web.Helpers.xml
+F:\ETMS\ETMS\bin\System.Web.Http.xml
+F:\ETMS\ETMS\bin\System.Web.Http.WebHost.xml
+F:\ETMS\ETMS\bin\System.Web.Mvc.xml
+F:\ETMS\ETMS\bin\System.Web.Razor.xml
+F:\ETMS\ETMS\bin\System.Web.WebPages.xml
+F:\ETMS\ETMS\bin\System.Web.WebPages.Deployment.xml
+F:\ETMS\ETMS\bin\System.Web.WebPages.Razor.xml
+F:\ETMS\ETMS\obj\Debug\ETMS.csprojResolveAssemblyReference.cache
+F:\ETMS\ETMS\obj\Debug\ETMS.dll
+F:\ETMS\ETMS\obj\Debug\ETMS.pdb
